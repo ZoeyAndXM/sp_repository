@@ -8,10 +8,10 @@ public interface ItemService {
 	//dajda22dada
 	/*
 	 * 	我特fuck?56464646
-	 *  46546646.
+	 *  46546646.fd
 	 *  4646768广泛的关注
 	 */
 	List<Item> getItems(String orderId);
-	void decreaseNumbers(List<Item> list);/***/
+	void decreaseNumbers(List<Item> list);
 	
 }
