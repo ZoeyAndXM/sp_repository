@@ -10,6 +10,6 @@ public interface ItemService {
 	 * 	我特fuck?56464646
 	 */
 	List<Item> getItems(String orderId);
-	void decreaseNumbers(List<Item> list);
+	void decreaseNumbers(List<Item> list);/***/
 	
 }
