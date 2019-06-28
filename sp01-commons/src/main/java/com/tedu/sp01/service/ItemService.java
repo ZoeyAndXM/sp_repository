@@ -10,11 +10,8 @@ public interface ItemService {
 	 * @param orderId
 	 * @return
 	 */
-<<<<<<< HEAD
 	//33333333
-=======
-         //2222222222
->>>>>>> branch 'master' of https://github.com/ZoeyAndXM/sp_repository.git
+    //2222222222
 	List<Item> getItems(String orderId);
 	void decreaseNumbers(List<Item> list);
 	
